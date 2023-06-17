@@ -1,7 +1,7 @@
 function hello(str) {
-    return (
-    <p>hello, {str}!</p>
-    )
+    const menssage = `hello, ${str}!`
+
+    return menssage
     // Add your solution here!
 };
 
